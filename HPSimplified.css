@@ -1,14 +1,14 @@
 
-@font-face{font-family:HPSimplifiedRegular;font-weight:400; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedRegular.woff) format("woff")}
+@font-face{font-family:"HPSimplifiedRegular";font-weight:400; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedRegular.woff"") format("woff")}
 
-@font-face{font-family:HPSimplifiedBold;font-weight:700; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedBold.woff) format("woff")}
+@font-face{font-family:"HPSimplifiedBold";font-weight:700; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedBold.woff") format("woff")}
 
-@font-face{font-family:HPSimplifiedLight;font-weight:300; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HpSimplifiedLight.woff) format("woff")}
+@font-face{font-family:"HPSimplifiedLight";font-weight:300; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HpSimplifiedLight.woff") format("woff")}
 
-@font-face{font-family:HPSimplifiedLightItalic;font-style:italic;font-weight:300; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedLightItalic.woff) format("woff")}
+@font-face{font-family:"HPSimplifiedLightItalic";font-style:italic;font-weight:300; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedLightItalic.woff") format("woff")}
 
-@font-face{font-family:HPSimplified;font-weight:400; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedRegular.woff) format("woff")}
+@font-face{font-family:"HPSimplified";font-weight:400; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedRegular.woff") format("woff")}
 
-@font-face{font-family:HPSimplified-Regular;font-weight:400; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedRegular.woff) format("woff")}
+@font-face{font-family:"HPSimplified-Regular";font-weight:400; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HPSimplifiedRegular.woff") format("woff")}
 
-@font-face{font-family:HPSimplified-Light;font-weight:300; font-display: swap;src:url(https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HpSimplifiedLight.woff) format("woff")}
+@font-face{font-family:"HPSimplified-Light";font-weight:300; font-display: swap;src:url("https://www8.hp.com/etc.clientlibs/HPIT-AEM-GLOBALNAV/clientlibs-globalnav/clientlibs-fonts/clientlib-hf-fontface-core/resources/fonts/HpSimplifiedLight.woff") format("woff")}
