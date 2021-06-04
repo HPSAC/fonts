@@ -1,44 +1,50 @@
+/* HPSimplified */
+@font-face{
+font-family:HPSimplifiedRegular;
+font-weight:400;
+src:url(https://github.com/HPSAC/fonts/HPSimplifiedRegular.ttf)  
+format("truetype");
+font-display: swap;}
 
 @font-face{
-  font-family:"HPSimplifiedRegular";
-  font-weight:400; 
-  font-display: swap;
-  src:url("https://github.com/HPSAC/fonts/HPSimplifiedRegular.woff") 
-  format("woff")}
+font-family:HPSimplifiedBold;
+font-weight:700;
+src:url(https://github.com/HPSAC/fonts/HPSimplifiedBold.ttf) 
+format("truetype");
+font-display: swap;}
+
 @font-face{
-  font-family:"HPSimplifiedBold";
-  font-weight:700; 
-  font-display: swap;
-  src:url("https://github.com/HPSAC/fonts/HPSimplifiedBold.woff") 
-  format("woff")}
+font-family:HPSimplifiedLight;
+font-weight:300;
+src:url(https://github.com/HPSAC/fonts/HpSimplifiedLight.ttf) 
+format("truetype");
+font-display: swap;}
+
 @font-face{
-  font-family:"HPSimplifiedLight";
-  font-weight:300; 
-  font-display: swap;
-  src:url("https://github.com/HPSAC/fonts/HpSimplifiedLight.woff") 
-  format("woff")}
+font-family:HPSimplifiedLightItalic;
+font-style:italic;
+font-weight:300;
+src:url(https://github.com/HPSAC/fonts/HPSimplifiedLightItalic.ttf)
+format("truetype");
+font-display: swap;}
+
 @font-face{
-  font-family:"HPSimplifiedLightItalic";
-  font-style:italic;
-  font-weight:300; 
-  font-display: swap;
-  src:url("https://github.com/HPSAC/fonts/HPSimplifiedLightItalic.woff") 
-  format("woff")}
+font-family:HPSimplified;
+font-weight:400;
+src:url(https://github.com/HPSAC/fonts/HPSimplifiedRegular.ttf)
+format("truetype");
+font-display: swap;} 
+
 @font-face{
-  font-family:"HPSimplified";
-  font-weight:400; 
-  font-display: swap;
-  src:url(https://github.com/HPSAC/fonts/HPSimplifiedRegular.woff") 
-    format("woff")}
+font-family:HPSimplified-Regular;
+font-weight:400;
+src:url(https://github.com/HPSAC/fonts/HPSimplifiedRegular.ttf)
+format("truetype");
+font-display: swap;} 
+
 @font-face{
-  font-family:"HPSimplified-Regular";
-  font-weight:400; 
-  font-display: swap;
-  src:url("https://github.com/HPSAC/fonts/HPSimplifiedRegular.woff") 
-  format("woff")}
-@font-face{
-  font-family:"HPSimplified-Light";
-  font-weight:300; 
-  font-display: swap;
-  src:url("https://github.com/HPSAC/fonts/HpSimplifiedLight.woff") 
-  format("woff")}
+font-family:HPSimplified-Light;
+font-weight:300;
+src:url(https://github.com/HPSAC/fonts/HpSimplifiedLight.ttf)
+format("truetype");
+font-display: swap;}
